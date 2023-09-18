@@ -10,4 +10,6 @@
 > Emphasis, aka *alics*, with *asterisks* or *underscores*.  
 > Strong emphasis, aka bold, with **asterisks** or **underscores**.  
 > Combined emphasis with **asterisks and _underscores_**.  
-> Striketthrough uses two tildes.~~Scratch this.~~  
+> Striketthrough uses two tildes.~~Scratch this.~~
+
+***
