@@ -1,4 +1,4 @@
-
+**甘特圖**
 ```mermaid
 gantt
     title 甘特圖
@@ -20,6 +20,7 @@ gantt
 
 
 ***
+**關鍵路徑**
 ![image](https://github.com/C110118109/system-analysis_0918/assets/121861750/b60a1783-9756-477d-bc71-c34294b0bdb1)
 
 
