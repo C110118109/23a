@@ -20,7 +20,9 @@ gantt
 
 
 ***
-**關鍵路徑**
-![image](https://github.com/C110118109/system-analysis_0918/assets/121861750/b60a1783-9756-477d-bc71-c34294b0bdb1)
+**關鍵路徑**  
+
+![image](https://github.com/C110118109/system-analysis/assets/121861750/9b5cefe1-c9da-4f5e-8411-1c1c3e264d5c)
+
 
 
