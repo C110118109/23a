@@ -21,6 +21,7 @@ gantt
 
 ***
 **關鍵路徑**  
+1->3->5->7->10->11
 
 ![image](https://github.com/C110118109/system-analysis/assets/121861750/9b5cefe1-c9da-4f5e-8411-1c1c3e264d5c)
 
